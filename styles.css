@@ -14,7 +14,7 @@ body{
 }
 
 .container{
-    background: radial-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.8)),url("/Images/background.jpg");
+    background: radial-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.8)),url("./Images/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
